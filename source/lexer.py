@@ -10,8 +10,6 @@ reserved = {
 	'owise':'OWISE',
 	'fun':'FUN',
 	
-	#'var':'VAR',
-	
 	'and':'AND',
 	'or':'OR',
 	'not':'NOT'
