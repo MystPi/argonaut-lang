@@ -108,3 +108,10 @@ Adding numbers..
 3
 -]
 ```
+
+## How to run code:
+Add this to a python file:
+```python
+from argonautParser import runCode
+runCode(your code here)
+```
