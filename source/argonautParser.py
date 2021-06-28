@@ -236,7 +236,6 @@ def p_error(p):
 		print("SyntaxError: Unexpected end of input!")
 	quit()
 
-parser = yacc.yacc()
-
-def execute(file):
-	parser.parse(file)
+def runCode(code):
+	parser = yacc.yacc()
+	parser.parse(code)
