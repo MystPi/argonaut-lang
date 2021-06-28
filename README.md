@@ -3,14 +3,14 @@
 The Argonaut Programming Language
 
 
-Argonaut is my first programming language, made with the [ply](https://github.com/dabeaz/ply) python library. Since it's my first language, it's *very* bad and should not be looked at let alone used. 🤣 It has no scoping and terrible error catching. Enjoy!
+Argonaut is my first programming language, made with the [ply](https://github.com/dabeaz/ply) python library. Since it's my first language, it's *very* bad and should not be used for anything other than play. 🤣 It has no scoping and terrible error catching. Enjoy!
 
 >(You must install the [ply](https://github.com/dabeaz/ply) python library before you can use Argonaut!)
 
 ## Here's the documentation anyway:
 <br>
 
->### Comments:
+### Comments:
 ```
 [- comment -]
 
@@ -18,17 +18,17 @@ Argonaut is my first programming language, made with the [ply](https://github.co
 are always
 multi-line -]
 ```
->### I/O:
+### I/O:
 ```
 log(...);
 input(...);
 ```
->### Variables:
+### Variables:
 ```
 var -> 12;
 log(var);
 ```
->### Math:
+### Math:
 ```js
 5 + 2 = 7
 5 - 2 = 3
@@ -37,7 +37,7 @@ log(var);
 5 ^ 2 = 25
 5 % 2 = 1
 ```
->### Conditions:
+### Conditions:
 ```js
 5 == 2 : false
 5 != 2 : true
@@ -46,7 +46,7 @@ log(var);
 
 and or not
 ```
->### If / OWise:
+### If / OWise:
 ```
 if (condition) {
   ...
@@ -58,13 +58,13 @@ if (condition) {
   ...
 }
 ```
->### Loops:
+### Loops:
 ```
 loop (expression) {
   ...
 }
 ```
->### Creating/Calling Functions:
+### Creating/Calling Functions:
 Super basic, no arguments.
 ```
 fun (funcName) (returnExpr) {
@@ -73,7 +73,7 @@ fun (funcName) (returnExpr) {
 
 (fun);
 ```
->### Built-in functions:
+### Built-in functions:
 There are basically none:
 ```
 log(...); [- Already covered -]
