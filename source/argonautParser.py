@@ -1,5 +1,5 @@
 import ply.yacc as yacc
-from lexer import *
+from argonautLexer import *
 
 precedence = (
 	('left', 'NOT', 'EQ', 'NEQ', 'MT', 'LT'),
