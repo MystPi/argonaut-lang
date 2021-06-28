@@ -115,3 +115,6 @@ Add this to a python file:
 from argonautParser import runCode
 runCode(your code here)
 ```
+
+## Other notes
+Please add an issue if you find any errors in the source code or this README. Thanks! 🙏
