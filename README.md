@@ -1,3 +1,4 @@
+![Argonaut-Lang](https://user-images.githubusercontent.com/86574651/123707032-17430080-d837-11eb-99e0-355b9557a73a.png)
 # Argonaut-Lang
 The Argonaut Programming Language
 
