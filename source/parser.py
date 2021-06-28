@@ -238,6 +238,5 @@ def p_error(p):
 
 parser = yacc.yacc()
 
-f = open('main.argo', 'r')
-parser.parse(f.read())
-f.close()
+def execute(file):
+	parser.parse(file)
