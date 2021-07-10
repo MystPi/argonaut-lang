@@ -2,7 +2,7 @@
 # Argonaut-Lang
 The Argonaut Programming Language
 
-Argonaut is my first programming language, made with the [ply](https://github.com/dabeaz/ply) python library. Since it's my first language, it's *very* bad and should not be used for anything other than play. 🤣 It has no scoping and terrible error catching. Enjoy!
+Argonaut is my first programming language, made with the [PLY](https://github.com/dabeaz/ply) python library. Since it's my first language, it's *very* bad and should not be used for anything other than play. 🤣 It has no scoping and terrible error catching. Enjoy!
 
 >(You must install the [PLY](https://github.com/dabeaz/ply) python library before you can use Argonaut!)
 
